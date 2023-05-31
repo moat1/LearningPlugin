@@ -16,5 +16,8 @@
   "devDependencies": {
     "eslint": "8.41.0",
     "eslint-config-next": "13.4.4"
-  }
+  },
+  "main": "index.js",
+  "author": "moat1 <108268542+moat1@users.noreply.github.com>",
+  "license": "MIT"
 }
